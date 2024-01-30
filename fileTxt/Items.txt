@@ -1,0 +1,7 @@
+Movimento+ 40 0
+Salto+ 45 0 
+Spada+ 60 0
+Pistola+ 100 0 
+Armatura 120 0 
+Valuta+ 250 0 
+Capacita+ 300 0 
