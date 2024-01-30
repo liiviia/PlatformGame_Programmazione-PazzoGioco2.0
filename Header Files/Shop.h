@@ -9,6 +9,7 @@
 #include<set>
 using namespace std;
 
+
 struct shopItem{
     string name;
     int price; 

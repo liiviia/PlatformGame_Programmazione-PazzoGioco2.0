@@ -18,7 +18,7 @@ Shop::Shop(){
 
 
     loadItemsFromFile("Items.txt"); 
-
+    
 }
 
 
